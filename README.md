@@ -1,7 +1,3 @@
-***VÍDEO DE APRESENTAÇÃO***: https://www.youtube.com/watch?v=fkNXS-A4OpI
-
-
-
 Essas instruções referem-se ao código do projeto da disciplina de Inteligência Artificial ministrada pelo professor
 Fabrício Olivetti na Universidade Federal do ABC
 
